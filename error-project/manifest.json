@@ -1,0 +1,20 @@
+{
+  "name": "Error Screen",
+  "short_name": "Anti-Piracy",
+  "start_url": "https://forkphorus.github.io/app.html?id=1385527874",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#808080",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
